@@ -1,10 +1,11 @@
-import logo from './logo.svg';
 import './App.css';
 
 function App() {
   return (
     <div className="App">
-      <p>Git Branch Demo</p>
+      <h1>Git Branch Demo</h1>
+      <p>Home page moment</p>
+      <p>This is totally homepage stuff</p>
     </div>
   );
 }
