@@ -6,6 +6,7 @@ function App() {
       <h1>Git Branch Demo</h1>
       <p>Home page moment</p>
       <p>This is totally homepage stuff</p>
+      <p>Anther feature</p>
     </div>
   );
 }
